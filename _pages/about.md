@@ -4,17 +4,15 @@ title: "Welcome"
 author_profile: true
 ---
 
-I am a Ph.D. student in Operations Research and Control Theory at [Beijing Jiaotong University](https://www.bjtu.edu.cn/). My research focuses on sparse nonlinear semidefinite programming and the theory, algorithms, and applications of large-scale step-constrained optimization. I am fortunate to be supervised by [Prof. Shenglou Zhou](https://shenglongzhou.github.io/) at the School of [Mathematics and Statistics, Beijing Jiaotong University](https://soms.bjtu.edu.cn/).
+I am pursuing my Master's Degree in Operations Research and Control Theory at the [School of Mathematics and Statistics](https://soms.bjtu.edu.cn/), [Beijing Jiaotong University](https://www.bjtu.edu.cn/) under the supervision of of [Prof. Ziyan Luo](https://faculty.bjtu.edu.cn/8525/), with my research focusing on Sparse Optimization with Least Constraint Volation. 
 
 # Education Background
-- **Ph.D.** in Operations Research and Control Theory, Beijing Jiaotong University, 2025–present
-- **M.S.** in Operations Research and Control Theory, Beijing Jiaotong University, 2023–2025
-- **B.S.** in Information and Computational Science, Beijing Jiaotong University, 2019–2023
+- **M.S.** in Operations Research and Control Theory, Beijing Jiaotong University, 2023–present
+- **B.S.** in Mathematics and Applied Mathematics, Xi'an University of Architecture and Technology, 2019–2023
  
 
-# Research Interests
-- Optimization Theory and Algorithms  
+# Research Interests 
 - Sparse Optimization 
-- Nonlinear Semidefinite Programming  
-- Step Constrained Optimization  
-- Applications in Artificial Intelligence, Signal Processing, and Machine Learning
+- Optimization with Least Constraint Volation  
+- Variational Analysis
+  
