@@ -4,7 +4,6 @@ title: "Welcome"
 author_profile: true
 ---
 
-# About Me
 I am a Ph.D. student in Operations Research and Control Theory at [Beijing Jiaotong University](https://www.bjtu.edu.cn/). My research focuses on sparse nonlinear semidefinite programming and the theory, algorithms, and applications of large-scale step-constrained optimization. I am fortunate to be supervised by [Prof. Shenglou Zhou](https://shenglongzhou.github.io/) at the School of [Mathematics and Statistics, Beijing Jiaotong University](https://soms.bjtu.edu.cn/).
 
 # Education Background
