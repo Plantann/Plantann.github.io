@@ -22,11 +22,11 @@ repository               : "Plantann/Plantann.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wjl.png"
-  name             : "Your Sidebar Name"
+  avatar           : "wjls.png"
+  name             : "Junliang Wang<br>"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : #"location"
+  bio              : #"Short biography for the left-hand sidebar"
+  location         : "Beijing"
   employer         : "Beijing Jiaotong University"
   uri              : # URL
   email            : "waunliang@163.com" 
