@@ -23,7 +23,7 @@ repository               : "Plantann/Plantann.github.io"
 author:
   # Biographic information
   avatar           : "wjls.png"
-  name             : "<center> <h1>Junliang Wang<br>王均良</h1></center>"
+  name             : "<center> <h1>Junliang Wang<br>王均良</h1></center><br><br>"
   pronouns         : # example: "she/her"  
   bio              : #"Short biography for the left-hand sidebar"
   location         : "Beijing"
