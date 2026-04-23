@@ -16,3 +16,17 @@ I am pursuing my Master's Degree in Operations Research and Control Theory at th
 - Optimization with Least Constraint Volation  
 - Variational Analysis
   
+<hr style="margin-top: 0em;">
+
+<div id="footer" style="text-align: right; font-size: 0.9em; color: #666;">
+  <div id="footer-text"></div>
+
+  <span style="color: #888;">
+    Total Views: <span id="busuanzi_value_site_pv"></span> &ensp;| &ensp;
+    Unique Visitors: <span id="busuanzi_value_site_uv"></span>
+  </span>
+  
+  <br><br>
+</div>
+
+<script async src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script>
