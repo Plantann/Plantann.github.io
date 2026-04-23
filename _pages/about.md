@@ -12,8 +12,7 @@ I am pursuing my Master's Degree in Operations Research and Control Theory at th
  
 
 # Research Interests 
-- Sparse Optimization 
-- Optimization with Least Constraint Volation  
+- Double Sparsity Penalized Optimizition  
 - Variational Analysis
   
 <hr style="margin-top: 0em;">
