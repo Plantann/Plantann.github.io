@@ -12,7 +12,7 @@ I am pursuing my Master's Degree in Operations Research and Control Theory at th
  
 
 # Research Interests 
-- Double Sparsity Penalized Optimizition  
+- Double Sparsity Penalized Optimization  
 - Variational Analysis
   
 <hr style="margin-top: 0em;">
