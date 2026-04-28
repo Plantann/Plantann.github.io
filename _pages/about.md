@@ -21,7 +21,7 @@ I am pursuing my Master's Degree in Operations Research and Control Theory at th
   <div id="footer-text"></div>
 
   <span style="color: #888;">
-    Total Views: <span id="busuanzi_value_site_pv"></span> &ensp;| &ensp;
+    Total Views: <span id="busuanzi_value_site_pv"></span> &ensp;
   </span>
   
   <br><br>
