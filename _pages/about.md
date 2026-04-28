@@ -22,7 +22,6 @@ I am pursuing my Master's Degree in Operations Research and Control Theory at th
 
   <span style="color: #888;">
     Total Views: <span id="busuanzi_value_site_pv"></span> &ensp;| &ensp;
-    Unique Visitors: <span id="busuanzi_value_site_uv"></span>
   </span>
   
   <br><br>
